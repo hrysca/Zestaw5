@@ -1,0 +1,6 @@
+canvas 100 100
+output output.txt
+empty_pixel .
+rectangle 5 5 10 4 #
+circle 20 20 5 @
+triangle 10 35 6 *
